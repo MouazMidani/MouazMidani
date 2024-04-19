@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamad🔥</h1>
-<h3 align="center">A Infomation Technology Engineer, Tutorer.</h3>
+<h3 align="center">I enjoy working as an Information Technology Engineer professionally and tutoring as a hobby.</h3>
 <h3 align="center">Software Developer at FYI.INC.</h3>
 
 <p align="center">
