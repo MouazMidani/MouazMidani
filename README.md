@@ -3,10 +3,10 @@
 <h3 align="center">Software Developer at FYI.INC.</h3>
 
 <p align="center">
-  <a href="http://instagram.com/m.m.midani/">
+  <a target="_blank" href="http://instagram.com/m.m.midani/">
     <img src="https://img.shields.io/badge/follow-%40mmalmidani%20177+-1DA1F2?label=Instagram&logo=instagram&style=for-the-badge&color=blue" alt="Mohamad Almidani's Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/mmalmidani/">
+  <a target="_blank" href="https://www.linkedin.com/in/mmalmidani/">
     <img src="https://img.shields.io/badge/follow-%40mmalmidani%20800+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Mohamad Almidani's LinkedIn"/>
   </a>
 </p>
