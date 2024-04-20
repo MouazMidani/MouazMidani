@@ -15,7 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MouazMidani&&theme=great-gatsby" alt="MohamadAlmidani" /></p>
 
-<!---
-MouazMidani/MouazMidani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---MouazMidani/MouazMidani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.--->
