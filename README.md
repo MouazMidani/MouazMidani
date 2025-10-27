@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Mohamad🔥</h1>
+<h1 align="center">Hi, I'm Mohamad aka Veloxen🔥</h1>
 <h3 align="center">A Infomation Technology Engineer, Tutorer.</h3>
-<h3 align="center">Software Developer at FYI.INC.</h3>
+<h3 align="center">Previously Software Engineer at FYI.INC </h3>
 
 <p align="center">
   <a href="http://instagram.com/m.m.midani/">
